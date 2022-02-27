@@ -1,0 +1,36 @@
+body {
+    font-family: "Open Sans",sans-serif;
+    color: rgb(34, 102, 102);
+}
+
+h1 {
+    color: rgb(31, 21, 161);
+    background-color: rgba(153, 200, 223, 0.288);
+}
+
+img {
+    height: 100px;
+    text-align: left;
+}
+
+figcaption span {
+    font-size: .85em;
+}
+
+p#product-description {
+    margin: 20px 0 20px 0;
+    text-align: justify;
+    background-color: rgb(201, 175, 193);
+}
+
+div.review {
+    padding: 10px;
+    background-color: ivory;
+    margin: 20px 0 20px 0;
+
+}
+div h3 {
+    color: rgb(224, 108, 41);
+}
+
+
